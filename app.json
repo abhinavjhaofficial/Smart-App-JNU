@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Smart App JNU Jaipur(UNOFFICIAL)",
+    "description": "Unofficial Attendance and Results App",
+    "slug": "smart-app-jnu-jaipur-unofficial",
+    "privacy": "public",
+    "version": "0.0.1",
+    "sdkVersion": "23.0.0",
+    "orientation": "portrait",
+    "icon": "./img/infinity.png",
+    "ios": {
+      "bundleIdentifier": "com.as360developers.smartappjnujaipur"
+    },
+    "android": {
+      "package": "com.as360developers.smartappjnujaipur"
+    }
+  }
+}
